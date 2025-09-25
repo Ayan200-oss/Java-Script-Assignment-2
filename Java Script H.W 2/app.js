@@ -915,6 +915,24 @@
 
 
 
+// ************Chapter 43-48************
+
+// **Question#1**
+
+//done with same alert of Q2
+
+// **Question#2**
+
+// function after(){
+//     Swal.fire({
+//   position: "top-end",
+//   icon: "success",
+//   title: "Thanks for purchasing a phone from us",
+//   showConfirmButton: false,
+//   timer: 1500
+// });
+// }
+
 
 
 
