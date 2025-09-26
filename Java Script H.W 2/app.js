@@ -934,6 +934,30 @@
 // }
 
 
+//  **Question#3** 
+
+
+
+
+// **Question#4** 
+// done in html file
+
+
+
+// **Question#5** 
+
+// let count = 0;
+
+// function increase() {
+//   count++;
+//   document.getElementById("counter").textContent = count;
+// }
+
+// function decrease() {
+//   count--;
+//   document.getElementById("counter").textContent = count;
+// }
+
 
 
 
